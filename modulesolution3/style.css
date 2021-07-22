@@ -1,0 +1,42 @@
+body {
+    font-size: 16px;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #1a1a1a;
+    background-color:tomato;
+}
+#header-nav {
+    background-color: #c98715;
+    border-radius: 0;
+    border: 0;
+}
+
+#main-content {
+    width: 92%;
+    margin-bottom: 40px;
+}
+
+#main-content h2 {
+    font-size: 2.9em;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+#main-content h3 {
+    font-size: 1.6em;
+    font-weight: bold;
+    margin-bottom: 1em;
+}
+
+#main-section {
+    background-color: #82d06b;
+    box-shadow: 0 0 50px #0f5900;
+    padding: 30px;
+}
+h1{
+    font-weight: bold;
+    font-size: 1.8em;
+    font-family: 'Abril Fatface', cursive;
+    color: #7d1913;
+
+}
